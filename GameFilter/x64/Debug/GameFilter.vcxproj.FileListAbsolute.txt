@@ -1,0 +1,5 @@
+C:\Users\daram\source\repos\GameFilter\x64\Debug\GameFilter.vcxproj.AssemblyReference.cache
+C:\Users\daram\source\repos\GameFilter\x64\Debug\GameFilter.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\daram\source\repos\GameFilter\x64\Debug\GameFilter.MyForm.resources
+C:\Users\daram\source\repos\GameFilter\x64\Debug\GameFilter.vcxproj.GenerateResource.cache
+C:\Users\daram\source\repos\GameFilter\x64\Debug\GameFilter.exe

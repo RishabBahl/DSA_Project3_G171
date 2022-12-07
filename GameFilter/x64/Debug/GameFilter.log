@@ -1,0 +1,21 @@
+﻿  MyForm.cpp
+C:\Users\daram\source\repos\GameFilter\NodeMaker.h(161,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\daram\source\repos\GameFilter\NodeMaker.h(162,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\daram\source\repos\GameFilter\NodeMaker.h(163,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\daram\source\repos\GameFilter\NodeMaker.h(164,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\daram\source\repos\GameFilter\NodeMaker.h(170,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\daram\source\repos\GameFilter\NodeMaker.h(179,33): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\daram\source\repos\GameFilter\NodeMaker.h(187,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\daram\source\repos\GameFilter\NodeMaker.h(188,30): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\daram\source\repos\GameFilter\NodeMaker.h(192,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\daram\source\repos\GameFilter\NodeMaker.h(194,30): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\daram\source\repos\GameFilter\NodeMaker.h(201,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\daram\source\repos\GameFilter\NodeMaker.h(201,45): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\daram\source\repos\GameFilter\NodeMaker.h(205,23): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\daram\source\repos\GameFilter\NodeMaker.h(205,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\daram\source\repos\GameFilter\NodeMaker.h(227,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\daram\source\repos\GameFilter\NodeMaker.h(228,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\daram\source\repos\GameFilter\MyForm.h(309,51): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\daram\source\repos\GameFilter\MyForm.h(315,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GameFilter.vcxproj -> C:\Users\daram\source\repos\GameFilter\x64\Debug\GameFilter.exe
