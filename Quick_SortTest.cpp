@@ -84,7 +84,9 @@ int main()
 
 	}
 
-
+	//choose middle value as pviot
+	swap(nodes[0], nodes[(int)nodes.size() / 2]);
+	
 	//low and high values for quicksort
 	int low = 0;
 	int high = nodes.size() - 1;
